@@ -16,9 +16,10 @@
     input:-ms-input-placeholder:hover, input:-ms-input-placeholder:active, input:-ms-input-placeholder:focus{outline:none}
     input::-ms-input-placeholder:hover, input::-ms-input-placeholder:active, input::-ms-input-placeholder:focus{outline:none}
     input:hover,input:active,input:focus,button:hover,button:active,button:focus,input::placeholder:hover,input::placeholder:active,input::
-    .placeholder:focus,textarea:hover,textarea:active,textarea:focus,select:hover,select:active,select:focus{outline:none}
+    placeholder:focus,textarea:hover,textarea:active,textarea:focus,select:hover,select:active,select:focus{outline:none}
     input:-webkit-autofill,input:-webkit-autofill:hover,input:-webkit-autofill:focus,input:-webkit-autofill:active
     {-webkit-box-shadow:0 0 0 30px #000 inset !important;box-shadow:0 0 0 30px #000 inset !important;-webkit-text-fill-color:#fff !important;color:#fff !important}
+    .actv {color: palevioletred;}
     button{background:none;cursor:pointer}
     img{-webkit-touch-callout:none;-webkit-user-select:none;-webkit-user-drag:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
     @font-face{font-family:'space';src:url("../fonts/space-regular.woff") format("woff");font-weight:normal;font-style:normal}
