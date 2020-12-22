@@ -1,0 +1,361 @@
+header{text-align: center; padding-top: 50px;}
+h1{font-size: 50px;font-family: Space Mono;}
+h1 b{font-size: 50px;font-family: Space Mono;}
+h2 {font-family: Space Mono;}
+.big{font-size: 30px}
+a {text-decoration: none; }
+p{font-size: 20px; font-family: "proxima-nova"; padding-left: 150px; padding-right: 150px;}
+header img{border-radius: 200px; widows: 400px; border: 5px solid black;}
+button{font-family: "futura pt";}
+body{text-align: center; margin: 0}
+
+.fear-text p {font-size: 20px;
+	font-family: "proxima-nova";
+	color: #424242;
+	padding-left: 150px;
+	padding-right: 150px;}
+
+.merch a {
+	 font-size: 22px;
+}
+
+.bg {    background-image: url(../img/tokyo-bridge.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    content: '';
+    clear: both;
+    display: table;
+    background-position-x: center;
+    background-position-y: bottom;
+	height: 100vh;}
+b{
+	font-family: "proxima-nova"
+	color: #d28f68 ;}
+.topnav a{
+	color: #666;
+	text-align: right;
+	padding: 35px 35px;
+	font-family: "futura pt";
+	text-decoration: none;
+	font-size: 17px;}
+.topnav a.active{
+	color: black;}
+.button{
+	border: none;
+	font-family: "futura pt";
+	background-color: transparent;
+	padding: 15px 30px;
+	border-radius: 15px;}
+.button button{
+	background-color: #1d1b55;}
+.bio{}
+.experiences{font-family: "futura pt";}
+.footer {
+	color: transparent; overflow: hidden; padding-bottom: 2px; padding-top: 15px;}
+.footer footer{
+	color: black;
+	text-align: left;
+	padding: 35px 35px;
+	font-family: "futura pt",Oswald,Advent Pro;
+	text-decoration: none;
+	opacity: 60%;
+	font-size: 12px;}
+.card-block {
+	display: grid;
+	grid-template-columns: 1fr;
+	width: : 100%; 
+	}
+
+.fear-text p {
+	color: #424242;
+}
+
+.card {
+	font-family: "futura pt";
+	background-size: cover;
+	background-position: 0px 390px;
+	padding: 50px;
+	max-width: 100%;
+	width: 50%;
+	font-size: 1.2rem;
+	color: #708d81;
+	position: relative;
+	}
+
+.card a {
+	font-size: 3rem;
+	color: lightpink;
+	}
+
+	.card a img {
+	text-align: center;
+
+	}
+.overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0, 0.5);
+	top:0;
+	left: 0; 
+	}
+.btn-img{
+	height: 150px;
+	width: 522px;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+}	
+.btn-img img{
+	text-align: center;
+	height: 500px;
+	width: 500px;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	bottom: -189px;
+}
+
+.contact p{
+	color: #d28f68; 
+	font-size: 28px
+}
+
+.home {
+	width: 30%;
+	display: table;
+	clear: both;
+	content: '';
+	margin-left: 2rem;
+	text-align: left;
+}
+
+.hero-text {
+			font-size: 1.3rem; 
+			color: #49429b; 
+			padding-left: 0; 
+			padding-right: 0;  
+			text-align: left;
+		}
+
+.archive-message p {
+	color: #424242;
+}
+
+.archive-message a {
+	color: black;
+	font-size: 22px;
+}
+
+.home-text b {
+	font-size: 100px;
+	font-family: Overpass;
+}
+
+.home-button a {
+	font-family: "futura pt";
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.home-button {
+	transition: color 170ms ease-in-out, border-color 170ms ease-in-out;
+}
+
+.name b {
+	font-size: 1.5rem
+
+}
+
+.sub-text p {
+	font-size: 18px;
+}
+
+.mission-statement i {
+	color: #808080;
+}
+
+.mission-statement h2 {
+	color: black; 
+	font-family: Arial;
+	font-weight: lighter; 
+	font-size: 35px;
+}
+
+.mission-statement {
+	margin-right: 450px;
+	margin-left: 450px;
+}
+
+.archive-text {
+	font-family: arial;
+	font-weight: lighter;
+}
+
+.archive-text a {
+	color: black;
+}
+
+.merch p {
+	color: #424242;
+}
+
+/* Media Queries*/
+
+@media only screen
+	and (max-device-width: 325px) {
+
+		.mission-statement {
+			margin-right: 100px;
+			margin-left: 100px;
+		}
+
+		.merch a {
+	 		font-size: 45px;
+		}
+
+		.mission-statement h2 {
+			margin-top: 320px;
+			margin-bottom: -18px;
+		}
+
+		.topnav a {
+			font-size: 22px;
+		}
+
+		.name b {
+			font-size: 45px;
+			}
+
+		.home-page {
+			margin-top: 85px;
+		}
+
+		p {
+			font-size: 35px;
+		}
+
+		.home-button a {
+			font-size: 35px;
+
+		}
+
+
+	}
+
+@media only screen
+	and (min-device-width: 350px)
+	and (max-device-width: 375px) {
+
+		.mission-statement {
+			margin-right: 100px;
+			margin-left: 100px;
+		}
+
+		.merch a {
+	 		font-size: 40px;
+		}
+
+		
+		.mission-statement h2 {
+			margin-top: 320px;
+			margin-bottom: -18px;
+		}
+
+		.topnav a {
+			font-size: 22px;
+		}
+
+		.name b {
+			font-size: 45px;
+			}
+
+		.home-page {
+			margin-top: 85px;
+		}
+
+		p {
+			font-size: 35px;
+		}
+
+		.home-button a {
+			font-size: 35px;
+
+		}
+
+
+	}
+
+
+
+@media only screen
+	and (min-device-width: 400px)
+	and (max-device-width: 425px) {
+
+		.mission-statement {
+			margin-right: 100px;
+			margin-left: 100px;
+		}
+
+		.merch a {
+	 		font-size: 45px;
+		}
+
+		
+		.mission-statement h2 {
+			margin-top: 320px;
+			margin-bottom: -18px;
+		}
+
+		.name b {
+			font-size: 45px;
+			}
+
+		.topnav a {
+			font-size: 22px;
+			}
+
+		.home-page {
+			margin-top: 85px;
+		}
+
+		p {
+			font-size: 35px;
+		}
+
+		.home-button a {
+			font-size: 35px;
+
+		}
+
+
+	}
+
+@media only screen
+	and (min-device-width: 750px)
+	and (max-device-width: 770px) {
+
+		.mission-statement {
+			margin-right: 100px;
+			margin-left: 100px;
+		}
+
+		.merch a {
+	 		font-size: 27px;
+		}
+
+		
+		.mission-statement h2 {
+			margin-top: 70px;
+			margin-bottom: -90px;
+		}
+
+		.topnav a {
+			font-size: 25px;
+		}
+	}
