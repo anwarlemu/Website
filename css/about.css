@@ -36,7 +36,7 @@
     .hide{display:none !important
     }.invisible{visibility:hidden;position:absolute;opacity:0}
     .invs{pointer-events:none;}
-    @media (max-width: 600px){.hide-mobile{display:none !important}}
+    @media (max-width: 300px){.hide-mobile{display:none !important}}
     .posts .block:hover .block-img{-webkit-transform:translate(40px, 0) scale(0.6)
          !important;-ms-transform:translate(40px, 0) scale(0.6) !important;transform:translate(40px, 0) scale(0.6) !important}
          .posts .block-icon
