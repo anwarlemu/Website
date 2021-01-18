@@ -1,110 +1,109 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://anwarlemu.netlify.app/</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>1.00</priority>
+	<loc>https://anwarlemu.netlify.app/</loc>
+	<lastmod>2021-01-18T15:27:46+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/resources</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.80</priority>
+	<loc>https://anwarlemu.netlify.app/homepage.html</loc>
+	<lastmod>2021-01-18T15:27:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/experiences</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.80</priority>
+	<loc>https://anwarlemu.netlify.app/resources</loc>
+	<lastmod>2021-01-18T15:27:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/about</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.80</priority>
+	<loc>https://anwarlemu.netlify.app/d-c-50.html</loc>
+	<lastmod>2021-01-18T15:27:53+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/homepage.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.80</priority>
+	<loc>https://anwarlemu.netlify.app/l-m-w-l.html</loc>
+	<lastmod>2021-01-18T15:27:51+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/d-c-50.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/d-w-procrastination.html</loc>
+	<lastmod>2021-01-18T15:27:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/l-m-w-l.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/v-game.html</loc>
+	<lastmod>2021-01-18T15:27:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/d-w-procrastination.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/cr-unleashed.html</loc>
+	<lastmod>2021-01-18T15:27:52+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/v-game.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/lessons-from-japan.html</loc>
+	<lastmod>2021-01-18T15:27:53+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/cr-unleashed.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/experiences</loc>
+	<lastmod>2021-01-18T15:27:54+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/lessons-from-japan.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/about</loc>
+	<lastmod>2021-01-18T15:27:56+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/overcoming-fear</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/20k.html</loc>
+	<lastmod>2021-01-18T15:27:54+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/archives</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/l-2020.html</loc>
+	<lastmod>2021-01-18T15:27:55+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/about.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/o-s-productivity.html</loc>
+	<lastmod>2021-01-18T15:27:55+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/l-2020.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/archives</loc>
+	<lastmod>2021-01-18T15:27:55+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/o-s-productivity.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.64</priority>
+	<loc>https://anwarlemu.netlify.app/nl-archives.html</loc>
+	<lastmod>2021-01-18T15:27:55+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/nl-archives.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.51</priority>
+	<loc>https://anwarlemu.netlify.app/august-lessons.html</loc>
+	<lastmod>2021-01-18T15:27:55+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/august-lessons.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.51</priority>
+	<loc>https://anwarlemu.netlify.app/september-lessons.html</loc>
+	<lastmod>2021-01-18T15:27:56+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/september-lessons.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.51</priority>
+	<loc>https://anwarlemu.netlify.app/online-school.html</loc>
+	<lastmod>2021-01-18T15:27:56+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/online-school.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.51</priority>
+	<loc>https://anwarlemu.netlify.app/book-focus.html</loc>
+	<lastmod>2021-01-18T15:27:56+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
 <url>
-<loc>https://anwarlemu.netlify.app/book-focus.html</loc>
-<lastmod>2021-01-18T13:22:05+00:00</lastmod>
-<priority>0.51</priority>
+	<loc>https://anwarlemu.netlify.app/overcoming-fear</loc>
+	<lastmod>2021-01-18T15:27:57+01:00</lastmod>
+	<priority>1.0</priority>
 </url>
-
 </urlset>
